@@ -1,0 +1,16 @@
+# Claude Code settings
+.claude/
+assets/.claude/
+
+# PDF extraction temporário
+_pdf_extracted.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Node (caso venha a usar)
+node_modules/
